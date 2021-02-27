@@ -1,0 +1,48 @@
+.cwf__container {
+    .cwf__title {
+        text-transform: uppercase;
+        font-size: 1.5rem;
+    }
+    .cwf__subtitle{
+        text-transform: uppercase;
+    }
+    .cwf__table{
+        padding: 5px;
+        .cwf__buttons{
+            padding: 5px;
+        }
+    }
+    .cwf__process__container{
+        margin-top: 10px;
+        margin-left: 10px;
+        .cwf__proglabel{
+            text-transform: uppercase;
+        }
+        .cwf__progForms{
+            max-width: 400px;
+        }
+       
+    }
+}
+
+
+
+.user-action {
+    color:#dedede;
+}
+.user-action:hover {
+    color: #eee;
+}
+
+.list-items:hover{
+    text-decoration: none;
+}
+.list-items {
+    text-decoration: none;
+    p {
+        color: #848484;
+    }
+}
+.hide {
+    display: none !important;
+}

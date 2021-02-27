@@ -1,0 +1,19 @@
+{
+    "/js/admin/app.js": "/js/admin/app.js",
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/admin/app.css": "/css/admin/app.css",
+    "/css/cod/app.css": "/css/cod/app.css",
+    "/css/spd/app.css": "/css/spd/app.css",
+    "/css/vdd/app.css": "/css/vdd/app.css",
+    "/css/wrd/app.css": "/css/wrd/app.css",
+    "/css/practice/app.css": "/css/practice/app.css",
+    "/js/cod/backend/app.js": "/js/cod/backend/app.js",
+    "/js/cod/frontend/app.js": "/js/cod/frontend/app.js",
+    "/js/cod/frontend/react-router.js": "/js/cod/frontend/react-router.js",
+    "/js/practice/app.js": "/js/practice/app.js",
+    "/js/spd/app.js": "/js/spd/app.js",
+    "/js/vdd/app.js": "/js/vdd/app.js",
+    "/js/wrd/app.js": "/js/wrd/app.js",
+    "/js/wrd/website/app.js": "/js/wrd/website/app.js"
+}
